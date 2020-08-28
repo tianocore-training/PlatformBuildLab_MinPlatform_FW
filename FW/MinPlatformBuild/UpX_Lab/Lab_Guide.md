@@ -13,7 +13,10 @@ In the Git Bash command line window Do the following:<br>
 
 **Edk2**
 ```
-$ git clone --recursive https://github.com/tianocore/edk2
+$ git clone https://github.com/tianocore/edk2.git
+$ cd edk2
+$ git submodule update --init
+$ cd ..
 ```
 **Edk2-platforms**
 ```
@@ -25,7 +28,7 @@ $ git clone https://github.com/tianocore/edk2-non-osi.git
 ```
 **FSP**
 ```
-$ git clone https://github.com/IntelFsp/FSP.git
+$ git clone https://github.com/Intel/FSP.git
 ```
 
 **Open a Visual Studio Command prompt**<br>
