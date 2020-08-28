@@ -34,18 +34,18 @@
 # MinPlatform Build Lab Material
 
 
-## Presentation is : https://github.com/tianocore-training/PlatformBuildLab_MinPlatform_FW/blob/master/FW/MinPlatformBuild/Platform_Build_MinPlatform_Win_Lab.pdf
-## Lab Guide is: https://github.com/tianocore-training/PlatformBuildLab_MinPlatform_FW/blob/master/FW/MinPlatformBuild/UpX_Lab/Lab_Guide.md
+- Presentation is : https://github.com/tianocore-training/PlatformBuildLab_MinPlatform_FW/blob/master/FW/MinPlatformBuild/Platform_Build_MinPlatform_Win_Lab.pdf
+- Lab Guide is: https://github.com/tianocore-training/PlatformBuildLab_MinPlatform_FW/blob/master/FW/MinPlatformBuild/UpX_Lab/Lab_Guide.md
 
 
 PlatformBuildLab_FW will create a FW directory as follows:
 ```
  /FW
    /MinPlatformBuild
-      /asl          - Asl Compiler  		- Readme has download info
-      /FTDI-Driver	- Serial / USB cable 	- Readme has download info
+      /asl          - Asl Compiler          - Readme has download info
+      /FTDI-Driver  - Serial / USB cable    - Readme has download info
       /UpX_Lab      - Lab Material and Lab Guide
-      /TeraTerm	    - Terminal app				- Readme has download info
-      /Nasm		    - Nasm Assembler			- Readme has download info
+      /TeraTerm	    - Terminal app          - Readme has download info
+      /Nasm         - Nasm Assembler        - Readme has download info
 	  
 ```     
