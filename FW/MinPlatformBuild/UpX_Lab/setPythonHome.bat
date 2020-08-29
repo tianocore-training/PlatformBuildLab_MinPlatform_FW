@@ -1,1 +1,1 @@
-set PYTHON_HOME=%USERPROFILE%\AppData\Local\Programs\Python\Python37-32
+set PYTHON_HOME=%USERPROFILE%\AppData\Local\Programs\Python\Python38-32
