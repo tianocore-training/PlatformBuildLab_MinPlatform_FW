@@ -38,7 +38,7 @@
 - Lab Guide is: https://github.com/tianocore-training/PlatformBuildLab_MinPlatform_FW/blob/master/FW/MinPlatformBuild/UpX_Lab/Lab_Guide.md
 
 
-PlatformBuildLab_FW will create a FW directory as follows:
+MinPlatformBuild_FW will create a FW directory as follows:
 ```
  /FW
    /MinPlatformBuild
