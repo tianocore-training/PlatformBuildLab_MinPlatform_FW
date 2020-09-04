@@ -1,4 +1,4 @@
-## Slide 1  @title[Platform Build Win Emulator Lab]
+## Slide 1  @title[Platform Build Win Up Xtreme Lab]
 
 ## UEFI & EDK II Training
 
