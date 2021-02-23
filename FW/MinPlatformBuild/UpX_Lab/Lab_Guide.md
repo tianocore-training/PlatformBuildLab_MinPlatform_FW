@@ -81,16 +81,20 @@ $ git config --global http.proxy=proxy.hf.intel.com:911
 
 ```
 
-**Edk2**
+**Edk2** Download with tag
 ```
 $ git clone https://github.com/tianocore/edk2.git
 $ cd edk2
+$ git checkout ea56ebf67dd55483105aa9f9996a48213e78337e
 $ git submodule update --init
 $ cd ..
 ```
-**Edk2-platforms**
+**Edk2-platforms** Download with tag
 ```
 $ git clone https://github.com/tianocore/edk2-platforms.git
+$ cd edk2-platforms
+$ git checkout  fcf693c9e8d68abbbc98d344720bc56a70ce7ba4
+$ cd ..
 ```
 **Edk2-non-osi**
 ```
